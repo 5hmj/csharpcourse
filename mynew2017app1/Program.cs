@@ -10,6 +10,8 @@ namespace mynew2017app1
     {
         static void Main(string[] args)
         {    
+            //this is my fierst program fuck
+
             Console.WriteLine("Hello World"); 
          Console.ReadKey();
         }    
